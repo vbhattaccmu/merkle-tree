@@ -1,4 +1,4 @@
-#### Readme for MerkleTree Code
+#### A simple Merkle Tree
 
 The provided code implements a Merkle tree data structure and related functions for constructing the tree, verifying the root hash, generating and verifying proofs, and various helper functions.
 
