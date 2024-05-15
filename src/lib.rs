@@ -84,10 +84,6 @@ impl MerkleTree {
         })
     }
 
-    ///////////////////////////////
-    /// Helpers for Exercise 1a ///
-    ///////////////////////////////
-
     // Builds the Merkle tree from leaves
     fn build_tree_from_leaves(leaves: &[Hash]) -> Self {
         let count_leaves = leaves.len();
